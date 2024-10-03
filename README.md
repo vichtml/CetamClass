@@ -1,2 +1,1 @@
-"# CetamClass" 
-"# CetamClass" 
+Este projeto pretende construir um portal educacional para o Centro de Educação Tecnológica do Amazonas (CETAM). Atualmente, muitos alunos e até alguns professores não estão familiarizados com o sistema acadêmico atual, o que torna mais difícil obter informações acadêmicas relevantes. O portal educacional tenta resolver esse problema centralizando as informações essenciais e oferecendo uma interface fácil de entender e acessível para todos os usuários. Os alunos poderão acompanhar suas notas, horários de aulas, materiais de estudo e outras informações pertinentes com este sistema.
